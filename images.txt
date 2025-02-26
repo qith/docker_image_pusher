@@ -1,1 +1,1 @@
-apachepulsar/pulsar-all:latest
+openeuler:23.03
