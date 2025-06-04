@@ -1,1 +1,1 @@
-tdengine/tdengine:latest
+lsqtzj/otter_manager:latest
