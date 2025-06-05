@@ -1,1 +1,1 @@
-lsqtzj/otter_manager:latest
+lsqtzj/otter_node:latest
