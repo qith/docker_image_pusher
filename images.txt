@@ -1,1 +1,1 @@
-docker.io/infiniflow/ragflow_deps:latest
+tdengine/tdengine:3.3.3.6
